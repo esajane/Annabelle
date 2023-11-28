@@ -1,0 +1,17 @@
+C:\Users\Anon\Downloads\DIP\obj\Debug\DIP.csproj.AssemblyReference.cache
+C:\Users\Anon\Downloads\DIP\obj\Debug\DIP.Form1.resources
+C:\Users\Anon\Downloads\DIP\obj\Debug\DIP.Properties.Resources.resources
+C:\Users\Anon\Downloads\DIP\obj\Debug\DIP.csproj.GenerateResource.cache
+C:\Users\Anon\Downloads\DIP\obj\Debug\DIP.csproj.CoreCompileInputs.cache
+C:\Users\Anon\Downloads\DIP\bin\Debug\DIP.exe.config
+C:\Users\Anon\Downloads\DIP\bin\Debug\DIP.exe
+C:\Users\Anon\Downloads\DIP\bin\Debug\DIP.pdb
+C:\Users\Anon\Downloads\DIP\obj\Debug\DIP.exe
+C:\Users\Anon\Downloads\DIP\obj\Debug\DIP.pdb
+C:\Users\Anon\Downloads\DIP\bin\Debug\AForge.dll
+C:\Users\Anon\Downloads\DIP\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Anon\Downloads\DIP\bin\Debug\AForge.Video.dll
+C:\Users\Anon\Downloads\DIP\bin\Debug\AForge.xml
+C:\Users\Anon\Downloads\DIP\bin\Debug\AForge.Video.xml
+C:\Users\Anon\Downloads\DIP\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Anon\Downloads\DIP\obj\Debug\DIP.csproj.CopyComplete
